@@ -1,0 +1,9 @@
+ #include "soi.ch"
+
+void main(){
+    int a, b;
+    a = 5;
+    cin >> a >> b;
+    cout << a + b << ;
+
+}
